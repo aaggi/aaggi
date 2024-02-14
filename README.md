@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all kind of projects that kind help me improve my Data Science skills
 - 📫 How to reach me LinkedIn - https://www.linkedin.com/in/kristian-aagaard-85998898/ | X - https://twitter.com/KAagaard9
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've a guest on a podcast about Cagliari Calcio impressive Scudetto from 1970
+- ⚡ Fun fact: I've been the guest on a podcast about Cagliari Calcio impressive Scudetto from 1970
 
 <!---
 aaggi/aaggi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
