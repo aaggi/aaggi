@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaggi
+- 👋 Hi, I’m @aaggi formally known as Kristian
 - 👀 I’m interested in Data Science, Data Analysis and Machine Learning
 - 🌱 I’m currently learning Machine Learning Scientist with Python and Tableau on DataCamp
 - 💞️ I’m looking to collaborate on all kind of projects that kind help me improve my Data Science skills
