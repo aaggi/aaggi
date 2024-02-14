@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaggi
 - 👀 I’m interested in Data Science, Data Analysis and Machine Learning
 - 🌱 I’m currently learning Machine Learning Scientist with Python and Tableau on DataCamp
-- 💞️ I’m looking to collaborate on all kind of projects 
+- 💞️ I’m looking to collaborate on all kind of projects that kind help me improve my Data Science skills
 - 📫 How to reach me LinkedIn - https://www.linkedin.com/in/kristian-aagaard-85998898/ | X - https://twitter.com/KAagaard9
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've a guest on a podcast about Cagliari Calcio impressive Scudetto from 1970
