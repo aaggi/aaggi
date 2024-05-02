@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristian Vivant Aagaard</h1>
-🏅 A [certified](https://www.datacamp.com/portfolio/KristianAagaard) Data Scientist from Denmark
+🏅 A [certified]([url](https://www.datacamp.com/portfolio/KristianAagaard)) Data Scientist from Denmark
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaggi&label=Profile%20views&color=0e75b6&style=flat" alt="aaggi" /> </p>
 
