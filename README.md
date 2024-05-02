@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kristian Vivant Aagaard</h1>
 
-🏅 A [certified](https://www.datacamp.com/portfolio/KristianAagaard) Data Scientist from Denmark
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaggi&label=Profile%20views&color=0e75b6&style=flat" alt="aaggi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaggi" alt="aaggi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kaagaard9" target="blank"><img src="https://img.shields.io/twitter/follow/kaagaard9?logo=twitter&style=for-the-badge" alt="kaagaard9" /></a> </p>
 
-
+🏅 I'm a [certified](https://www.datacamp.com/portfolio/KristianAagaard) Data Scientist from Denmark
 
 - 🔭 I’m currently working on [Associate Data Analyst in SQL, Certification](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql)
 
