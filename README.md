@@ -8,7 +8,7 @@
 
 🏅 I'm a [certified](https://www.datacamp.com/portfolio/KristianAagaard) Data Scientist from Denmark
 
-- 🔭 I’m currently working on [Associate Data Analyst in SQL, Certification](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql)
+- 🔭 I’m currently working on [Data Engineer in Python, Certification](https://app.datacamp.com/learn/career-tracks/data-engineer-in-python)
 
 - 🌱 I’m currently learning **Azure, AWS, Docker, Snowflake, Tableau**
 
